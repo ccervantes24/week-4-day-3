@@ -92,6 +92,7 @@ print("first word is: " +all_words[0])
 #create an empty list variable called food
 # add 3 items from the user into the empty list
 #print out the menu list
+foodChoice = input("What Is Your Favorite Food? ")
 
 ##############################################################################################################
 # what are tuples?
